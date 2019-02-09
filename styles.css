@@ -1,0 +1,90 @@
+#header_content {
+    background-color: #3b5998;
+    color: white;
+    height: 13%;
+    margin-top: -1%;
+    margin-left: -1%;
+    width: 103%;
+}
+
+.form-content1 input[type=text] {
+    padding: 3px;
+    border: 2px solid #cab4ca;
+}
+
+#content_div2 input[type=text],
+input[type=email],
+input[type=date],
+input[type=password] {
+    padding: 5px;
+    border: 2px solid #d4cfcf;
+    border-radius: 5px;
+}
+
+.form-content1 {
+    float: right;
+    padding: 1%;
+}
+
+#btn_save {
+    background-color: #6868ad;
+    border: 2px solid whitesmoke;
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 32px !important;
+    margin-right: 140px;
+    float: right;
+}
+
+label {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#content_div1 {
+    width: 50%;
+    position: fixed;
+    margin-left: 14%;
+    font-weight: bold;
+    color: grey;
+}
+
+#content_div2 {
+    margin-left: 54%;
+    position: fixed;
+}
+
+body {
+    background-color: #f3f3f3;
+}
+
+.width-100 {
+    width: 100%
+}
+
+.width-50 {
+    width: 50%
+}
+
+.text-muted {
+    color: gray;
+}
+
+#btn_create_account {
+    color: white;
+    font-weight: bolder;
+    cursor: pointer;
+    font-size: 11px;
+    margin-top: 3px;
+    border-radius: 6px;
+    padding: 5px;
+    width: 50%;
+    background-color: #57a734;
+    border-color: #539631;
+}
+
+.pull-top-7 {
+    margin-top: 7px;
+}
